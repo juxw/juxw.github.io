@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Andrey Baydin's site"
+title                    : "Andrey Baydin | Home "
 title_separator          : "-"
 name                     : &name "Andrey Baydin"
 description              : &description "personal website"

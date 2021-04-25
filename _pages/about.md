@@ -8,7 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-**March 2021** We are presenting several works at APS March Meeting: "Terahertz Magnon Polaritons in YFeO<sub>3</sub> in Pulsed High Magnetic Fields",  "Terahertz Phonons and Electron–Phonon Interactions in Two-Dimensional Lead Halide Perovskites", and "Terahertz Time-Domain Magnetospectroscopy of La<sub>0.875</sub>Sr<sub>0.125</sub>MnO<sub>3</sub>". 
+**April 2021** Our paper on THz time-domain spectroscopy of carbon nanotube films is accepted in Optica: [Giant Terahertz Polarization Rotation in Ultrathin Films of Aligned Carbon Nanotubes](https://doi.org/10.1364/OPTICA.422826) [arXiv](https://arxiv.org/abs/2104.03500)
+
+**April 2021** Received a J Evans Attwell-Welch Postdoctoral Research Fellowship
+
+**March 2021** We are presenting several works at APS March Meeting: "Terahertz Magnon Polaritons in YFeO<sub>3</sub> in Pulsed High Magnetic Fields",  "Terahertz Phonons and Electron–Phonon Interactions in Two-Dimensional Lead Halide Perovskites", and "Terahertz Time-Domain Magnetospectroscopy of La<sub>0.875</sub>Sr<sub>0.125</sub>MnO<sub>3</sub>".
 
 **November 2020** Our review article is now available online! A. Baydin, T. Makihara, N. Marquez Peraca, and J. Kono, “[Time-Domain Terahertz Spectroscopy in High Magnetic Fields](http://www.google.com/url?q=http%3A%2F%2Fjournal.hep.com.cn%2Ffoe%2FEN%2F10.1007%2Fs12200-020-1101-4&sa=D&sntz=1&usg=AFQjCNHVo9oLY3TRxMrmiO_GrV-UGfYQCg),” Frontiers of Optoelectronics
 

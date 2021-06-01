@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**May 2021**[‘Magic angle’ device can rotate terahertz polarization by 90˚ or more](https://physicsworld.com/a/magic-angle-device-can-rotate-terahertz-polarization-by-90%CB%9A-or-more/)
+**May 2021** [‘Magic angle’ device can rotate terahertz polarization by 90˚ or more](https://physicsworld.com/a/magic-angle-device-can-rotate-terahertz-polarization-by-90%CB%9A-or-more/)
 
-**May 2021**  [Thin is now in to turn terahertz polarization](https://news.rice.edu/2021/05/20/thin-is-now-in-to-turn-terahertz-polarization/)
+**May 2021** [Thin is now in to turn terahertz polarization](https://news.rice.edu/2021/05/20/thin-is-now-in-to-turn-terahertz-polarization/)
 
 **April 2021** Our paper on THz time-domain spectroscopy of carbon nanotube films is accepted in Optica: [Giant Terahertz Polarization Rotation in Ultrathin Films of Aligned Carbon Nanotubes](https://doi.org/10.1364/OPTICA.422826) [arXiv](https://arxiv.org/abs/2104.03500)
 

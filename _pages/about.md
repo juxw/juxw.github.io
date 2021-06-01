@@ -8,11 +8,14 @@ redirect_from:
   - /about.html
 ---
 
+**May 2021**[‘Magic angle’ device can rotate terahertz polarization by 90˚ or more](https://physicsworld.com/a/magic-angle-device-can-rotate-terahertz-polarization-by-90%CB%9A-or-more/)
+**May 2021**  [Thin is now in to turn terahertz polarization](https://news.rice.edu/2021/05/20/thin-is-now-in-to-turn-terahertz-polarization/)
+
 **April 2021** Our paper on THz time-domain spectroscopy of carbon nanotube films is accepted in Optica: [Giant Terahertz Polarization Rotation in Ultrathin Films of Aligned Carbon Nanotubes](https://doi.org/10.1364/OPTICA.422826) [arXiv](https://arxiv.org/abs/2104.03500)
 
 **April 2021** Received a J Evans Attwell-Welch Postdoctoral Research Fellowship
 
-**March 2021** Our paper about THz spectroscopy in high magnetic fields is [featured on the cover](https://link.springer.com/journal/12200/volumes-and-issues/14-1). 
+**March 2021** Our paper about THz spectroscopy in high magnetic fields is [featured on the cover](https://link.springer.com/journal/12200/volumes-and-issues/14-1).
 
 **March 2021** We are presenting several works at APS March Meeting: "Terahertz Magnon Polaritons in YFeO<sub>3</sub> in Pulsed High Magnetic Fields",  "Terahertz Phonons and Electron–Phonon Interactions in Two-Dimensional Lead Halide Perovskites", and "Terahertz Time-Domain Magnetospectroscopy of La<sub>0.875</sub>Sr<sub>0.125</sub>MnO<sub>3</sub>".
 

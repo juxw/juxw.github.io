@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**June 2021** Presenting a poster about our recent work about giant THz polarization rotation in films of aligned carbon nanotubes at NT21: [International Conference on the Science and Application of Nanotubes and Low-Dimensional Materials](https://nt21.dryfta.com/)
+
 **May 2021** [‘Magic angle’ device can rotate terahertz polarization by 90˚ or more](https://physicsworld.com/a/magic-angle-device-can-rotate-terahertz-polarization-by-90%CB%9A-or-more/)
 
 **May 2021** [Thin is now in to turn terahertz polarization](https://news.rice.edu/2021/05/20/thin-is-now-in-to-turn-terahertz-polarization/)

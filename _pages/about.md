@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+**August 2021** Our paper on tunable plasmonic ultrastrong coupling:is available on [arXiv](https://arxiv.org/abs/2108.02494)
+
 **July 2021** Our paper on chiral THz phonons in PbTe is availbale on [arXiv](https://arxiv.org/abs/2107.07616)
 
 **June 2021** Presenting a poster about our recent work about giant THz polarization rotation in films of aligned carbon nanotubes at NT21: [International Conference on the Science and Application of Nanotubes and Low-Dimensional Materials](https://nt21.dryfta.com/)

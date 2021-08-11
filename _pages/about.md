@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+**August 2021** Presenting at [7th Annual SCI Summer Research Colloquium](https://sci.rice.edu/colloquium/2021-colloquium)
 
 **August 2021** Our paper on tunable plasmonic ultrastrong coupling:is available on [arXiv](https://arxiv.org/abs/2108.02494)
 

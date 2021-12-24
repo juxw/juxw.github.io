@@ -11,7 +11,7 @@ redirect_from:
 
 **August 2021** Presenting at [7th Annual SCI Summer Research Colloquium](https://sci.rice.edu/colloquium/2021-colloquium)
 
-**August 2021** Our paper on tunable plasmonic ultrastrong coupling:is available on [arXiv](https://arxiv.org/abs/2108.02494)
+**August 2021** Our paper on tunable plasmonic ultrastrong coupling is available on [arXiv](https://arxiv.org/abs/2108.02494)
 
 **July 2021** Our paper on chiral THz phonons in PbTe is availbale on [arXiv](https://arxiv.org/abs/2107.07616)
 

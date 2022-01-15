@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 **January 2022** Our paper on chiral THz phonons in PbTe is accepted in PRL [arXiv](https://arxiv.org/abs/2107.07616)
+
 **November 2021** Invited talk about "Phonon dynamics in Pb<sub>1-x</sub>Sn<sub>x</sub>Te" at [VIII Ultrafast Dynamics and Ultrafast Bandgap Photonics](https://sites.google.com/a/georgetown.edu/ultrafast-dynamics-and-metastability/home-page/program?authuser=0)
 
 **August 2021** Presenting at [7th Annual SCI Summer Research Colloquium](https://sci.rice.edu/colloquium/2021-colloquium)

@@ -1,16 +1,16 @@
 # main links links
 main:
-- title: "Research"
-url: /research/
+  - title: "Research"
+    url: /research/
 
-- title: "Publications"
-url: /publications/
+  - title: "Publications"
+    url: /publications/
 
-- title: "People"
-url: /people/
+  - title: "People"
+    url: /people/
 
-- title: "Shutterfly"
-url: /shutterfly/
+  - title: "Shutterfly"
+    url: /shutterfly/
 # - title: "Talks"
 #   url: /talks/    
 

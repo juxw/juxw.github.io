@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "juxw"
-  avatar           : "juxw.jpg"
+  avatar           : "/images/renwu/juxw.jpg"
   bio              : "working at Fuzhou University"
   location         : "Fuzhou city, Fujian province"
   employer         :

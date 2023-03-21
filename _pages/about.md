@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+![Editing a markdown file for a fuda](/images/fuzhou.jpg)
+------
 **January 2022** Our paper on chiral THz phonons in PbTe is accepted in PRL [arXiv](https://arxiv.org/abs/2107.07616)
 
 <!-- **January 2022** Our paper on chiral THz phonons in PbTe is accepted in PRL [arXiv](https://arxiv.org/abs/2107.07616)
